@@ -1,5 +1,5 @@
 # Beginner Lab
-Practice XSS land SQLI lab for Beginner
+Practice XSS and SQLI lab for Beginner
 ## Installation on linux
 ```
 git clone https://github.com/PiCarODD/wab-lab/
