@@ -4,7 +4,7 @@ if(isset($_GET['ok']))
 {
 $var=$_GET['input'];
 $var=trim($var,'"<>\'');
-echo "Your Name is <b>".$var."</b>";
+echo "Your Commented <b>".$var."</b>";
 }
 if(isset($_GET['sc']))
 {
@@ -12,7 +12,8 @@ if(isset($_GET['sc']))
 }
 ?>
 <form action="" method="get" name="input">
-	<input type="text" name="input" placeholder="Enter Your Name">
+	<p>Write a comment if you like my tweet</p>
+	<textarea rows="4" cols="50" placeholder="Write a comment here.." name="input"></textarea>
 	<input type="submit" value="ok" name="ok">
 	<input type="submit" name="sc" value="source code">
 </form>
