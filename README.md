@@ -10,6 +10,7 @@ Comming Soon With best Features
 ```
 git clone https://github.com/PiCarODD/wab-lab/
 mv wab-lab /var/www/html/
+service apache2 start
 ```
 ## Installation on Window
 ```
