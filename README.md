@@ -11,4 +11,4 @@ https://github.com/PiCarODD/wab-lab/archive/master.zip
 extract to /xamppfolder/htdocs/
 ```
 ## Demo
-<img src="Screenshot from 2019-04-23 17-56-46.png">
+<img src="Screenshot from 2019-04-23 18-08-02.png">
