@@ -1,3 +1,4 @@
+# Beginner Lab
 Practice XSS land SQLI lab for Beginner
 ## Installation on linux
 ```
