@@ -8,7 +8,7 @@ $var=str_replace('SCRIPT', "", $var);
 $var=str_replace('svg', "", $var);
 $var=str_replace('onload', "", $var);
 $var=str_replace('alert', "", $var);
-echo "Your Name is <b>".$var."</b>";
+echo "You Searched <b>".$var."</b>";
 }
 if(isset($_GET['sc']))
 {
@@ -16,8 +16,8 @@ if(isset($_GET['sc']))
 }
 ?>
 <form action="" method="get" name="input">
-	<input type="text" name="input" placeholder="Enter Your Name">
-	<input type="submit" value="ok" name="ok">
+	<input type="text" name="input" placeholder="Search">
+	<input type="submit" value="Search" name="ok">
 	<input type="submit" name="sc" value="source code">
 </form>
 <a href="level1.php">level1</a>
