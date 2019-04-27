@@ -1,9 +1,11 @@
 # Beginner Lab
-Practice XSS and SQLI lab for Beginner
+Pentest web lab for Beginner
 ## XSS
 There is 6 levels for xss category.<br>
 Each level has some tricks.<br>
 Hope you enjoy
+## Playing with local files
+Use to read flag.txt in flags folder.
 ## SQLI
 Comming Soon With best Features
 ## Installation on linux
