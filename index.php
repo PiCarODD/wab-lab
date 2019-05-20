@@ -18,6 +18,7 @@
 <a href="xss/level4.php">level4</a>
 <a href="xss/level5.php">level5</a>
 <a href="xss/level6.php">level6</a>
+<a href="xss/level7.php">level7</a>
 <h1 style="font-family:GistLight">Practice SQL injection</h1>
 <a href="sqli/level1.php">level1</a>
 <a href="sqli/level2.php">level2</a>
@@ -29,6 +30,13 @@
 <a href="fileinclusion/level1.php">level1</a>
 <a href="fileinclusion/level2.php">level2</a>
 <a href="fileinclusion/level3.php">level3</a>
+<h1 style="font-family:GistLight">PHP type Juggling</h1>
+<a href="phptypejuggling/level1.php">level1</a>
+<a href="phptypejuggling/level2.php">level2</a>
+<a href="phptypejuggling/level3.php">level3</a>
+<a href="phptypejuggling/level4.php">level4</a>
+<a href="phptypejuggling/level5.php">level5</a>
+<a href="phptypejuggling/level6.php">level6</a>
 <div style="margin-top: 50px;color: #d61111">
 	&copy; <?php echo date ('Y'); ?> Developed by W.A.B. All rights reserved
 </div>
