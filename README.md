@@ -6,6 +6,8 @@ Each level has some tricks.<br>
 Hope you enjoy
 ## Playing with local files
 Use to read flag.txt in flags folder.
+## PHP Type Juggling
+Use 6 categories of PHP Type Juggling to get win.
 ## SQLI
 Comming Soon With best Features
 ## Installation on linux
